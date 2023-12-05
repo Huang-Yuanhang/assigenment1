@@ -1,4 +1,8 @@
 # Assigenment 1
+
+## Estimated Hours
+   - About 1 week
+     
 ## Web goal
 The PowerTech website exemplifies a commitment to revolutionizing the digital experience by providing cutting-edge solutions for high-performance PCs and laptops.
 
@@ -15,9 +19,6 @@ When reflecting on the goals of a startup, I realized that focusing on a CMS sys
 This Assignment 1 reflection has made me realize that sensitivity to technology and industry trends is crucial when starting a business. At the same time, it is important to constantly think about the company's development strategy to ensure that the goal-setting matches the market needs in order to better drive the company towards success. This experience has strengthened my determination to build my own startup and to focus more on technological innovation and user experience enhancement in my future development.
 
 
-
-## Estimated Hours
-   - About 1 week
 ## Content Insights
     
 During the process of creating my startup, I focused specifically on the importance of a CMS (Content Management System). Through this experience, I gained a deep understanding that in the digital age, an efficient and flexible CMS system is crucial for a company's online presence.
